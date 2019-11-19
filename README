@@ -1,0 +1,9 @@
+Written by Che Nur 'Atikah
+
+Using Python 3.7++ and MySQL workbench 6.3
+
+---Problem 1---
+1. Only execute 'main.ipynb'. It will automatically import 'model.py' accordingly.
+
+---Problem 2---
+1. Run the query one by one. Or all at once if you think it is fine! 
